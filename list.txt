@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt
