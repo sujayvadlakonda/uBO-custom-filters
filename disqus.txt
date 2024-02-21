@@ -8,5 +8,5 @@
 
 
 ! Source: https://superuser.com/questions/1277118/how-to-block-all-disqus-content-with-ublock-origin
+###disqus_thread
 ||disqus.com/embed/comments/
-##disqus_thread
