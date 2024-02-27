@@ -1,0 +1,18 @@
+! AniList: Hide Score
+anilist.co##.score
+
+! AniList: Distractions
+anilist.co##.recent-threads
+
+! Stack Overflow: Distractions
+stackoverflow.com###hot-network-questions
+
+! Youtube Web: Video Recommendations
+www.youtube.com###secondary
+
+! Youtube Mobile: Video Recommendations
+m.youtube.com##.watch-below-the-player
+
+! Disqus Comments
+###disqus_thread
+||disqus.com/embed/comments/
