@@ -9,7 +9,7 @@ anilist.co##.score
 *||disqus.com/embed/comments/
 
 ! Stack Overflow: Distractions
-.###hot-network-questions
+*###hot-network-questions
 
 ! Youtube Mobile: Video Recommendations
 m.youtube.com##.watch-below-the-player
