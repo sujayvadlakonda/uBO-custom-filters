@@ -13,6 +13,7 @@ anilist.co##.score
 
 ! Youtube Mobile: Video Recommendations
 m.youtube.com##.watch-below-the-player
+m.youtube.com##ytm-browse
 
 ! Youtube Web: Video Recommendations
 www.youtube.com###secondary
