@@ -25,8 +25,12 @@ www.linkedin.com###feed-news-module
 ! Youtube Music
 ! Left section. Contains home, explore, library, upgrade, and playlist sections.
 music.youtube.com###guide
-! ! All homepage contents. If something is missing this is probably the culprit.
-! music.youtube.com##ytmusic-section-list-renderer.ytmusic-browse-response.style-scope > .ytmusic-section-list-renderer.style-scope
+! Front page suggestions
+music.youtube.com##.ytmusic-shelf
+music.youtube.com##ytmusic-tastebuilder-shelf-renderer
+music.youtube.com##.ytmusic-chip-cloud-chip-renderer.style-scope.yt-simple-endpoint
+! Search bar suggestions
+music.youtube.com###suggestion-list
 ! Background image.
 music.youtube.com##.ytmusic-browse-response.style-scope > .ytmusic-fullbleed-thumbnail-renderer.style-scope > .ytmusic-fullbleed-thumbnail-renderer.style-scope.image
 ! Two tabs. "YT Music" and "Library"
