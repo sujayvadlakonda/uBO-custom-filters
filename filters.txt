@@ -37,3 +37,9 @@ music.youtube.com##.ytmusic-browse-response.style-scope > .ytmusic-fullbleed-thu
 music.youtube.com###tabs
 ! Next song suggestions
 music.youtube.com##.ytmusic-player-page.style-scope.side-panel
+
+! Reddit: Just leaves the main post. I don't know what each filter exactly does.
+www.reddit.com##.left-sidebar
+www.reddit.com##.right-sidebar
+www.reddit.com##.xs\:px-0.px-md.pb-2xs.pt-md.text-12.justify-between.flex
+www.reddit.com##.items-center.flex.border-neutral-border.border-solid.border-r-0.border-l-0.border-t-0.border-b-sm.h-header-large
