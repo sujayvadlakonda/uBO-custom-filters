@@ -11,13 +11,6 @@ anilist.co##.score
 ! Stack Overflow: Distractions
 *###hot-network-questions
 
-! Youtube Mobile: Video Recommendations
-m.youtube.com##.watch-below-the-player
-m.youtube.com##ytm-browse
-
-! Youtube Web: Video Recommendations
-www.youtube.com###secondary
-
 ! Reduce Exposure to Future Connections
 github.com##.px-md-0.px-sm-3.px-3.col-lg-8.col-md-8.flex-auto
 www.linkedin.com###feed-news-module
