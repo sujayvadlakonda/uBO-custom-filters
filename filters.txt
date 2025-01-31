@@ -36,3 +36,29 @@ www.reddit.com##.left-sidebar
 www.reddit.com##.right-sidebar
 www.reddit.com##.xs\:px-0.px-md.pb-2xs.pt-md.text-12.justify-between.flex
 www.reddit.com##.items-center.flex.border-neutral-border.border-solid.border-r-0.border-l-0.border-t-0.border-b-sm.h-header-large
+
+! Google Search Suggestions
+! Copied from https://www.reddit.com/r/uBlockOrigin/comments/n2tfkd/custom_filter_to_block_google_search_suggestions/
+
+
+! 2024-04-02 https://music.youtube.com
+music.youtube.com##.ytmusic-player-bar.style-scope.thumbs
+
+! Aug 20, 2024 https://jobs.cvshealth.com
+jobs.cvshealth.com##.chatbot-widget
+
+! Oct 7, 2024 https://www.wikihow.com
+www.wikihow.com###sidebar
+
+! Google Search
+!!! AI Search Results
+google.com##.bzXtMb
+!!! People Search Next
+google.com##.Iv4hMb
+
+! Lichess Articles
+lichess.org##.ublog-post-cards.lobby__blog
+
+! Youtube Mobile Suggestions Within the Fullscreen Video
+youtube.com##.fullscreen-watch-next-entrypoint-wrapper
+youtube.com##.fullscreen-recommendations-wrapper
