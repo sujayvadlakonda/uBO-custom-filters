@@ -1,152 +1,152 @@
-! AniList: Distractions
-anilist.co##.recent-threads
+! ! AniList: Distractions
+! anilist.co##.recent-threads
 
-! AniList: Hide Score
-anilist.co##.score
+! ! AniList: Hide Score
+! anilist.co##.score
 
-! Disqus Comments
-*###disqus_thread
-*||disqus.com/embed/comments/
+! ! Disqus Comments
+! *###disqus_thread
+! *||disqus.com/embed/comments/
 
-! Stack Overflow: Distractions
-*###hot-network-questions
+! ! Stack Overflow: Distractions
+! *###hot-network-questions
 
-! Reduce Exposure to Future Connections
-github.com##.px-md-0.px-sm-3.px-3.col-lg-8.col-md-8.flex-auto
-www.linkedin.com###feed-news-module
+! ! Reduce Exposure to Future Connections
+! github.com##.px-md-0.px-sm-3.px-3.col-lg-8.col-md-8.flex-auto
+! www.linkedin.com###feed-news-module
 
-! Youtube Music
-! Left section. Contains home, explore, library, upgrade, and playlist sections.
-! music.youtube.com###guide
-! ! Front page suggestions
-! music.youtube.com##.ytmusic-shelf
-! music.youtube.com##ytmusic-tastebuilder-shelf-renderer
-! music.youtube.com##.ytmusic-chip-cloud-chip-renderer.style-scope.yt-simple-endpoint
-! ! Search bar suggestions
-! music.youtube.com###suggestion-list
-! ! Background image.
-! music.youtube.com##.ytmusic-browse-response.style-scope > .ytmusic-fullbleed-thumbnail-renderer.style-scope > .ytmusic-fullbleed-thumbnail-renderer.style-scope.image
+! ! Youtube Music
+! ! Left section. Contains home, explore, library, upgrade, and playlist sections.
+! ! music.youtube.com###guide
+! ! ! Front page suggestions
+! ! music.youtube.com##.ytmusic-shelf
+! ! music.youtube.com##ytmusic-tastebuilder-shelf-renderer
+! ! music.youtube.com##.ytmusic-chip-cloud-chip-renderer.style-scope.yt-simple-endpoint
+! ! ! Search bar suggestions
+! ! music.youtube.com###suggestion-list
+! ! ! Background image.
+! ! music.youtube.com##.ytmusic-browse-response.style-scope > .ytmusic-fullbleed-thumbnail-renderer.style-scope > .ytmusic-fullbleed-thumbnail-renderer.style-scope.image
 
-! Two tabs. "YT Music" and "Library"
-! music.youtube.com###tabs
-! Next song suggestions
-!music.youtube.com##.ytmusic-player-page.style-scope.side-panel
+! ! Two tabs. "YT Music" and "Library"
+! ! music.youtube.com###tabs
+! ! Next song suggestions
+! !music.youtube.com##.ytmusic-player-page.style-scope.side-panel
 
-! Reddit: Just leaves the main post. I don't know what each filter exactly does.
-www.reddit.com##.left-sidebar
-www.reddit.com##.right-sidebar
-www.reddit.com##.xs\:px-0.px-md.pb-2xs.pt-md.text-12.justify-between.flex
-www.reddit.com##.items-center.flex.border-neutral-border.border-solid.border-r-0.border-l-0.border-t-0.border-b-sm.h-header-large
+! ! Reddit: Just leaves the main post. I don't know what each filter exactly does.
+! www.reddit.com##.left-sidebar
+! www.reddit.com##.right-sidebar
+! www.reddit.com##.xs\:px-0.px-md.pb-2xs.pt-md.text-12.justify-between.flex
+! www.reddit.com##.items-center.flex.border-neutral-border.border-solid.border-r-0.border-l-0.border-t-0.border-b-sm.h-header-large
 
-! Google Search Suggestions
-! Copied from https://www.reddit.com/r/uBlockOrigin/comments/n2tfkd/custom_filter_to_block_google_search_suggestions/
+! ! Google Search Suggestions
+! ! Copied from https://www.reddit.com/r/uBlockOrigin/comments/n2tfkd/custom_filter_to_block_google_search_suggestions/
 
-! Oct 7, 2024 https://www.wikihow.com
-www.wikihow.com###sidebar
+! ! Oct 7, 2024 https://www.wikihow.com
+! www.wikihow.com###sidebar
 
-! Google Search
-!!! People Search Next
-google.com##.Iv4hMb
+! ! Google Search
+! !!! People Search Next
+! google.com##.Iv4hMb
 
-! Lichess Articles
+! Lichess Home Page: Blog Articles
 lichess.org##.lobby__blog
 
-! Youtube Mobile Suggestions Within the Fullscreen Video
-youtube.com##.fullscreen-watch-next-entrypoint-wrapper
-youtube.com##.fullscreen-recommendations-wrapper
+! ! Youtube Mobile Suggestions Within the Fullscreen Video
+! youtube.com##.fullscreen-watch-next-entrypoint-wrapper
+! youtube.com##.fullscreen-recommendations-wrapper
 
 
-youtube.com###videowall-endscreen
-youtube.com###html5-endscreen
-youtube.com##.videowall-endscreen
-youtube.com##.html5-endscreen
-youtube.com##.html5-endscreen-content
+! youtube.com###videowall-endscreen
+! youtube.com###html5-endscreen
+! youtube.com##.videowall-endscreen
+! youtube.com##.html5-endscreen
+! youtube.com##.html5-endscreen-content
 
-www.youtube.com###videowall-endscreen
-www.youtube.com###html5-endscreen
-www.youtube.com##.videowall-endscreen
-www.youtube.com##.html5-endscreen
-www.youtube.com##.html5-endscreen-content
-
-
-! Aug 27, 2025 https://www.google.com
-www.google.com###bres
-www.google.com##div.ULSxyf:nth-of-type(1)
-www.google.com###slim_appbar
-www.google.com##.C6AK7c.XVMlrc > .mXwfNd
-www.google.com##.A6K0A > .cUnQKe
-www.google.com###rso > div.ULSxyf > .MjjYud
-
-! Oct 2, 2025 https://www.nytimes.com
-||myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=oma&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26redirect_uri%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2015%252F11%252F29%252Fnyregion%252Fgentrification-in-a-brooklyn-neighborhood-forces-residents-to-move-on.html%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2015%252F11%252F29%252Fnyregion%252Fgentrification-in-a-brooklyn-neighborhood-forces-residents-to-move-on.html&display=regiwall_lire&asset=RegiWall&application=OMA&preloaded=true$subdocument
-www.nytimes.com##.css-1hs03y9
-||static01.nyt.com/images/2015/11/29/nyregion/29CROWNHEIGHTS/29CROWNHEIGHTS-*.jpg?quality=75&auto=web*$image
-www.nytimes.com##.css-19q4c8e
-
-!yt mobile
-m.youtube.com##.pivot-w2w.pivot-bar-item-tab
-m.youtube.com##.pivot-subs.pivot-bar-item-tab
-m.youtube.com##.pivot-shorts.pivot-bar-item-tab
-m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(3)
-m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
-m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
-m.youtube.com##.search-bar-entry-point-more-drawer-button.search-bar-entry-point-button
-m.youtube.com##div.ytSuggestionComponentMweb.ytSuggestionComponentSuggestionHover.ytSuggestionComponentSuggestion
-m.youtube.com##.no-icon.feed-nudge-content-wrapper
-m.youtube.com##.full-bleed-wn-thumbs.watch-content > .single-column-watch-next-modern-panels.scwnr-content
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
-m.youtube.com##.reel-shelf-items
-m.youtube.com##.big-shorts-singleton
-m.youtube.com##.related-items-container
-m.youtube.com##div.fullscreen-watch-next-entrypoint-wrapper
-
-!tablet
-m.youtube.com##div.ytSuggestionComponentMweb.ytSuggestionComponentSuggestionHover.ytSuggestionComponentSuggestion
-m.youtube.com##.related-items-container
-m.youtube.com##.pivot-subs.pivot-bar-item-tab
-m.youtube.com##.pivot-shorts.pivot-bar-item-tab
-m.youtube.com##.pivot-w2w.pivot-bar-item-tab
-m.youtube.com##.search-bar-entry-point-more-drawer-button.search-bar-entry-point-button
-m.youtube.com##yt-tab-shape.yt-tab-shape-wiz--host-clickable.yt-tab-shape-wiz:nth-of-type(3)
-m.youtube.com##.feed-nudge-multiple-columns.no-shadow.modernized-nudge.no-trim
-m.youtube.com##.reel-shelf-items
-m.youtube.com##ytm-media-item:has(a[href^="/shorts"])
-
-! Video suggestions on the right side of the video player
-www.youtube.com###related
-! Video suggestions within the video player at the end of a video
-www.youtube.com##.ytp-fullscreen-grid-stills-container
-!!desktop
-!! Disable annotations and endcards
-!youtube.com##.ytp-ce-element.ytp-ce-video,.ytp-ce-element.ytp-ce-channel,.ytp-ce-element.ytp-ce-website,.ytp-ce-element.ytp-ce-playlist
-!! Shorts
-!youtube.com##[is-shorts]
-!! YT Menu - Hide the Shorts button
-!www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
-!! YT Search - Hide Shorts
-!www.youtube.com##ytd-search ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-video-renderer)
-!! YT Search and Channels - Hide the Shorts sections
-!www.youtube.com##ytd-reel-shelf-renderer
-!! YT Subscriptions - Hide Shorts - Grid View
-!www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer [overlay-style="SHORTS"]:upward(ytd-grid-video-renderer)
-!! YT Subscriptions - Hide Shorts - List View
-!www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-item-section-renderer)
-!! YT Subscriptions - New Layout - Hide Shorts
-!www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer [overlay-style="SHORTS"]:upward(ytd-rich-item-renderer)
-!! YT Channels - Hide the Shorts tab
-!www.youtube.com##ytd-browse[page-subtype="channels"] [role="tab"]:nth-of-type(3):has-text(Shorts)
-!!block guide menu
-!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
-!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
-!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-!www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
-!www.youtube.com###icon > .yt-icon-button.style-scope
-!!search suggestions
-!www.youtube.com##.ytSearchboxComponentSuggestionsContainerDark
-!!history disabled message
-!www.youtube.com##.grid-disabled.grid.ytd-browse.style-scope
+! www.youtube.com###videowall-endscreen
+! www.youtube.com###html5-endscreen
+! www.youtube.com##.videowall-endscreen
+! www.youtube.com##.html5-endscreen
+! www.youtube.com##.html5-endscreen-content
 
 
-!www.youtube.com##.ytp-button.ytp-next-button
+! ! Aug 27, 2025 https://www.google.com
+! www.google.com###bres
+! www.google.com##div.ULSxyf:nth-of-type(1)
+! www.google.com###slim_appbar
+! www.google.com##.C6AK7c.XVMlrc > .mXwfNd
+! www.google.com##.A6K0A > .cUnQKe
+! www.google.com###rso > div.ULSxyf > .MjjYud
+
+! ! Oct 2, 2025 https://www.nytimes.com
+! ||myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=oma&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26redirect_uri%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2015%252F11%252F29%252Fnyregion%252Fgentrification-in-a-brooklyn-neighborhood-forces-residents-to-move-on.html%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2015%252F11%252F29%252Fnyregion%252Fgentrification-in-a-brooklyn-neighborhood-forces-residents-to-move-on.html&display=regiwall_lire&asset=RegiWall&application=OMA&preloaded=true$subdocument
+! www.nytimes.com##.css-1hs03y9
+! ||static01.nyt.com/images/2015/11/29/nyregion/29CROWNHEIGHTS/29CROWNHEIGHTS-*.jpg?quality=75&auto=web*$image
+! www.nytimes.com##.css-19q4c8e
+
+! !yt mobile
+! m.youtube.com##.pivot-w2w.pivot-bar-item-tab
+! m.youtube.com##.pivot-subs.pivot-bar-item-tab
+! m.youtube.com##.pivot-shorts.pivot-bar-item-tab
+! m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(3)
+! m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+! m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
+! m.youtube.com##.search-bar-entry-point-more-drawer-button.search-bar-entry-point-button
+! m.youtube.com##div.ytSuggestionComponentMweb.ytSuggestionComponentSuggestionHover.ytSuggestionComponentSuggestion
+! m.youtube.com##.no-icon.feed-nudge-content-wrapper
+! m.youtube.com##.full-bleed-wn-thumbs.watch-content > .single-column-watch-next-modern-panels.scwnr-content
+! m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
+! m.youtube.com##.reel-shelf-items
+! m.youtube.com##.big-shorts-singleton
+! m.youtube.com##.related-items-container
+! m.youtube.com##div.fullscreen-watch-next-entrypoint-wrapper
+
+! !tablet
+! m.youtube.com##div.ytSuggestionComponentMweb.ytSuggestionComponentSuggestionHover.ytSuggestionComponentSuggestion
+! m.youtube.com##.related-items-container
+! m.youtube.com##.pivot-subs.pivot-bar-item-tab
+! m.youtube.com##.pivot-shorts.pivot-bar-item-tab
+! m.youtube.com##.pivot-w2w.pivot-bar-item-tab
+! m.youtube.com##.search-bar-entry-point-more-drawer-button.search-bar-entry-point-button
+! m.youtube.com##yt-tab-shape.yt-tab-shape-wiz--host-clickable.yt-tab-shape-wiz:nth-of-type(3)
+! m.youtube.com##.feed-nudge-multiple-columns.no-shadow.modernized-nudge.no-trim
+! m.youtube.com##.reel-shelf-items
+! m.youtube.com##ytm-media-item:has(a[href^="/shorts"])
+
+! ! Video suggestions on the right side of the video player
+! www.youtube.com###related
+! ! Video suggestions within the video player at the end of a video
+! www.youtube.com##.ytp-fullscreen-grid-stills-container
+! !!desktop
+! !! Disable annotations and endcards
+! !youtube.com##.ytp-ce-element.ytp-ce-video,.ytp-ce-element.ytp-ce-channel,.ytp-ce-element.ytp-ce-website,.ytp-ce-element.ytp-ce-playlist
+! !! Shorts
+! !youtube.com##[is-shorts]
+! !! YT Menu - Hide the Shorts button
+! !www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
+! !! YT Search - Hide Shorts
+! !www.youtube.com##ytd-search ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-video-renderer)
+! !! YT Search and Channels - Hide the Shorts sections
+! !www.youtube.com##ytd-reel-shelf-renderer
+! !! YT Subscriptions - Hide Shorts - Grid View
+! !www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer [overlay-style="SHORTS"]:upward(ytd-grid-video-renderer)
+! !! YT Subscriptions - Hide Shorts - List View
+! !www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-item-section-renderer)
+! !! YT Subscriptions - New Layout - Hide Shorts
+! !www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer [overlay-style="SHORTS"]:upward(ytd-rich-item-renderer)
+! !! YT Channels - Hide the Shorts tab
+! !www.youtube.com##ytd-browse[page-subtype="channels"] [role="tab"]:nth-of-type(3):has-text(Shorts)
+! !!block guide menu
+! !www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+! !www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+! !www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+! !www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+! !www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+! !www.youtube.com###icon > .yt-icon-button.style-scope
+! !!search suggestions
+! !www.youtube.com##.ytSearchboxComponentSuggestionsContainerDark
+! !!history disabled message
+! !www.youtube.com##.grid-disabled.grid.ytd-browse.style-scope
+
+
+! !www.youtube.com##.ytp-button.ytp-next-button
 
