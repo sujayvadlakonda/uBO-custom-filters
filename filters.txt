@@ -49,7 +49,7 @@ www.wikihow.com###sidebar
 google.com##.Iv4hMb
 
 ! Lichess Articles
-lichess.org##.ublog-post-cards.lobby__blog
+lichess.org##.lobby__blog
 
 ! Youtube Mobile Suggestions Within the Fullscreen Video
 youtube.com##.fullscreen-watch-next-entrypoint-wrapper
