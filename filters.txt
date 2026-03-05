@@ -1,3 +1,10 @@
+! Lichess Home Page: Blog Articles
+lichess.org##.lobby__blog
+
+! Video suggestions on the right side of the video player
+! www.youtube.com###related
+youtube.com##ytd-watch-flexy #secondary
+
 ! ! AniList: Distractions
 ! anilist.co##.recent-threads
 
@@ -47,9 +54,6 @@
 ! ! Google Search
 ! !!! People Search Next
 ! google.com##.Iv4hMb
-
-! Lichess Home Page: Blog Articles
-lichess.org##.lobby__blog
 
 ! ! Youtube Mobile Suggestions Within the Fullscreen Video
 ! youtube.com##.fullscreen-watch-next-entrypoint-wrapper
@@ -112,8 +116,7 @@ lichess.org##.lobby__blog
 ! m.youtube.com##.reel-shelf-items
 ! m.youtube.com##ytm-media-item:has(a[href^="/shorts"])
 
-! ! Video suggestions on the right side of the video player
-! www.youtube.com###related
+
 ! ! Video suggestions within the video player at the end of a video
 ! www.youtube.com##.ytp-fullscreen-grid-stills-container
 ! !!desktop
@@ -149,4 +152,3 @@ lichess.org##.lobby__blog
 
 
 ! !www.youtube.com##.ytp-button.ytp-next-button
-
