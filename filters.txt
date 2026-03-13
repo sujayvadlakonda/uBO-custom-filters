@@ -2,8 +2,8 @@
 lichess.org##.lobby__blog
 
 ! Video suggestions on the right side of the video player
-! www.youtube.com###related
-youtube.com##ytd-watch-flexy #secondary
+! youtube.com##ytd-watch-flexy #secondary -- this also blocks playlist controls
+youtube.com##ytd-watch-next-secondary-results-renderer
 
 ! ! AniList: Distractions
 ! anilist.co##.recent-threads
@@ -152,3 +152,4 @@ youtube.com##ytd-watch-flexy #secondary
 
 
 ! !www.youtube.com##.ytp-button.ytp-next-button
+
